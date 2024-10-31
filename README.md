@@ -1,2 +1,3 @@
 # HTML-HW-2
-HTML Homework 2 Geekster
+HOSTED LINK
+https://amir-ali0.github.io/HTML-HW-2/
